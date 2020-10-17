@@ -1,0 +1,26 @@
+h1 {
+    color: firebrick;
+    font-size: 400%;
+    text-align: center;
+    text-shadow: 2px 2px 5px;
+
+
+}
+
+h2 {
+    color: dimgrey;
+    font-size: 300%;
+    text-align: center;
+    text-shadow: 2px 2px 5px;
+}
+
+li {
+    color: darkslategray;
+    font-size: 200%;
+    text-align: center;
+
+}
+
+p {
+    text-align: center
+}
